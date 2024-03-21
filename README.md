@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da TalitaSoaresL 😁
+## Bem-vindo(a) ao perfil da TalitaSoaresL 😁🤝
 
  <div>
    <a href="https://github.com/TalitaSoaresL">
@@ -14,7 +14,7 @@
  
  <br>
 
- ## Para saber mais, segue as redes sociais
+ ## 👩‍💻 Para saber mais, segue as redes sociais
  
 <div> 
   
