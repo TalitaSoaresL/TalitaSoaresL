@@ -1,29 +1,21 @@
-## Bem-vindo(a) ao perfil da TalitaSoaresL 😁🤝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Talita.👋)](https://git.io/typing-svg)
 
- <div>
+
+### _Follow me 😁🤝:_
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=c71610)](mailto:soaresthalyta97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-soares-b89339167)  
+
+### _Stats 📊:_
+<div>
    <a href="https://github.com/TalitaSoaresL">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalitaSoaresL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaSoaresL&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+### _I am learning 👩‍💻:_
+ <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div>
  
  <br>
-
- ## 👩‍💻 Para saber mais, segue as redes sociais
- 
-<div> 
-  
-  
- 
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thalyta.ss@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/talita-soares-b89339167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![snake gif](https://github.com/TalitaSoaresL/TalitaSoaresL/blob/output/github-contribution-grid-snake.svg)
-
-</div>
